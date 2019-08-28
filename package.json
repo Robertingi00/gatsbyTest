@@ -1,0 +1,16 @@
+{
+  "name": "web-strendingur",
+  "version": "1.0.0",
+  "description": "Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roberthalfdanarson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gatsby-plugin-express": "^1.1.6",
+    "path": "^0.12.7"
+  }
+}
